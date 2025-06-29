@@ -36,4 +36,14 @@
 1. Clone the repository:
 ```bash
 git clone https://github.com/HamzaGurbuz/Pisti_Game.git
+```
+
+2. Open in Android Studio.
+
+3. Build and run on an emulator or physical device.
+
+## 🙋‍♂️ About
+
+This project is developed by Hamza Gürbüz, an enthusiastic student and robotics mentor from Turkey 🇹🇷, as part of his mobile development journey.
+This project is developed by Hamza Gürbüz, an enthusiastic student and robotics mentor from Turkey 🇹🇷, as part of his mobile development journey.
 
