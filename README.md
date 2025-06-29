@@ -44,6 +44,4 @@ git clone https://github.com/HamzaGurbuz/Pisti_Game.git
 
 ## 🙋‍♂️ About
 
-This project is developed by Hamza Gürbüz, an enthusiastic student and robotics mentor from Turkey 🇹🇷, as part of his mobile development journey.
-This project is developed by Hamza Gürbüz, an enthusiastic student and robotics mentor from Turkey 🇹🇷, as part of his mobile development journey.
-
+This project is developed by Hamza Gürbüz, an enthusiastic student and robotics mentor from Turkey 🇹🇷, as part of his mobile development journey
