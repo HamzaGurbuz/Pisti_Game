@@ -30,13 +30,6 @@
 - [ ] Save/load past games  
 - [ ] Dark mode  
 
-## 📸 Screenshots
-
-| Team Name Entry | Game Screen |
-|-----------------|-------------|
-| ![Team Name](https://github.com/HamzaGurbuz/Pisti_Game/assets/your-screenshot-url1) | ![Game Screen](https://github.com/HamzaGurbuz/Pisti_Game/assets/your-screenshot-url2) |
-
-*(Replace the screenshot URLs with actual ones after uploading images to your repo)*
 
 ## 📥 Installation
 
